@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bullaandcow/static/css/main.a07da3a3.css",
-    "main.js": "/bullaandcow/static/js/main.e085e637.js",
-    "static/js/787.34dd61c4.chunk.js": "/bullaandcow/static/js/787.34dd61c4.chunk.js",
-    "index.html": "/bullaandcow/index.html",
-    "main.a07da3a3.css.map": "/bullaandcow/static/css/main.a07da3a3.css.map",
-    "main.e085e637.js.map": "/bullaandcow/static/js/main.e085e637.js.map",
-    "787.34dd61c4.chunk.js.map": "/bullaandcow/static/js/787.34dd61c4.chunk.js.map"
+    "main.css": "/bullandcow/static/css/main.a07da3a3.css",
+    "main.js": "/bullandcow/static/js/main.5418e2cd.js",
+    "static/js/787.1c14d767.chunk.js": "/bullandcow/static/js/787.1c14d767.chunk.js",
+    "index.html": "/bullandcow/index.html",
+    "main.a07da3a3.css.map": "/bullandcow/static/css/main.a07da3a3.css.map",
+    "main.5418e2cd.js.map": "/bullandcow/static/js/main.5418e2cd.js.map",
+    "787.1c14d767.chunk.js.map": "/bullandcow/static/js/787.1c14d767.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a07da3a3.css",
-    "static/js/main.e085e637.js"
+    "static/js/main.5418e2cd.js"
   ]
 }
